@@ -1,0 +1,1 @@
+Feature: Verify the product description on Amazon
